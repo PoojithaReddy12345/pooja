@@ -70,7 +70,7 @@ public class BaseClass {
 	
 	@AfterMethod
 	public void methodTeardown()  {
-		home.SignoutofApp();
+		//home.si;
 		excel.closeExcel();
 	}
 	
